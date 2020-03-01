@@ -1,4 +1,4 @@
-# the_bitcoin_market
+# The Bitcoin Market
 
 To better understand the growth and impact of Bitcoin and other cryptocurrencies I, in this project, explored the market capitalization of different cryptocurrencies.
 
